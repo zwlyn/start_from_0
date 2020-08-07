@@ -1,2 +1,6 @@
 # start_from_0
-a python starter's note
+A python starter's note
+从零开始的python世界生活
+我接触了很多有关开发的知识，学得拿不拿得出手？不知道，但我晓得，在书写和表达时会明明白白地暴露出自己的
+问题，我力图满足我逻辑思维的每个好奇心，在这里留下一些脚印
+
